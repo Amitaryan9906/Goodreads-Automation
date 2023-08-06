@@ -13,6 +13,7 @@
 - [Manual Testing](#manual-testing)
 - [Test Coverage and Traceability](#test-coverage-and-traceability)
 - [Screenshots](#screenshots)
+- [Automation Reports](#reports)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -100,7 +101,8 @@ npx cypress run
 
 ![App Screenshot](https://github.com/Amitaryan9906/Goodreads-Automation/blob/main/cypress/screenshots/Login/login.js/Login%20to%20the%20goodreads.com%20and%20Run%20All%20Test%20Cases%20--%20TC_034%20Checking%20login%20by%20invalid%20email%20format%20in%20the%20email%20field%20(failed).png?raw=true)
 
-check reports to view all
+### Check reports <a name="reports"></a>
+[https://fastidious-creponne-de8405.netlify.app/](https://fastidious-creponne-de8405.netlify.app/)
 
 
 ## Contributing <a name="contributing"></a>
