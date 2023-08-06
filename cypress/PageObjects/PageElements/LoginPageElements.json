@@ -1,0 +1,31 @@
+{
+    "LoginPageLocators" : {
+        "signIn_btn" : "//a[@href='/user/sign_in']",
+        "signIn_text" : "//a[normalize-space()='Sign In']",
+        "username_text" : "//input[@name='email']",
+        "password_text" : "//input[@name='password']",
+        "keepSignInCheckbox" : "input[value='true']",
+        "emptyEmail_text" : "//div[contains(text(),'Enter your email')]",
+        "emptyPassword_text" : "//div[contains(text(),'Enter your password')]",
+        "wrongEmailError_text" : "//span[@class='a-list-item']",
+        "wrongPasswordError_text" : "//span[@class='a-list-item'][contains(.,'Your password is incorrect')]",
+        "login_btn_text" : "//input[@aria-labelledby='a-autoid-0-announce']",
+        "continue_with_amazon_btn" : "(//button[normalize-space()='Continue with Amazon'])[1]",
+        "continue_with_apple_btn" : "//button[@onclick='GR_Apple.login(auth_portal_apple_path); return false;']",
+        "continue_with_google_btn" : "(//button[normalize-space()='Continue with Google'])[1]",
+        "continue_with_facebook_btn" : "(//button[normalize-space()='Continue with Facebook'])[1]",
+        "signIn_with_email_btn" : "(//button[normalize-space()='Sign in with email'])[1]",
+        "signUp_btn2" : "a[href='/user/sign_up']",
+        "signUp_btn" : "(//a[normalize-space()='Sign up'])[1]"
+
+    }
+}
+
+
+
+
+
+
+
+
+        

@@ -1,0 +1,16 @@
+{
+    "homePageElement": {
+        "profile_menu_user" : "(//img[@alt='Amit Kumar'])[1]",
+        "searchBar":"//header/div[2]/div[1]/div[2]/form[1]/input[1]",
+        "searchbar2":"(//input[@class='searchBox__input searchBox__input--currentlyReading'])[1]",
+        "searchResult":"tbody tr:nth-child(1)",
+        "searchBtn":"//button[@class='searchBox__icon--magnifyingGlass gr-iconButton searchBox__icon searchBox__icon--navbar']",
+        "popUp":"//img[@src='//s.gr-assets.com/assets/gr/icons/icon_close-63734f04e7baaa77fbad796225e5724c.svg']",
+        "want_to_read":"(//span[@class='progressTrigger'][normalize-space()='Want to Read'])[1]",
+        "my_books": "nav[class='siteHeader__primaryNavInline'] li[class='siteHeader__topLevelItem'] a[class='siteHeader__topLevelLink']",
+        "saved_books":"#rightCol",
+        "removed_books": "//img[@title='Remove from my books']",
+        "signOut":"(//a[@class='siteHeader__subNavLink'][normalize-space()='Sign out'])[1]"
+
+    }
+}
